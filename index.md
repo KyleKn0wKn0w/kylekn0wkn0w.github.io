@@ -8,35 +8,26 @@ https://kylekn0wkn0w.github.io
 ## EDUCATION                                                                  
 Hunan University of Technology
 > Bachelor of Engineering in Software Engineering	
-
 > Hunan, China
-
 > Sept. 2013—Jun. 2017
 
 ## EXPERIENCE                                                                       
 Yum China	
-
 > Senior Engineer
-
-> Nanjing, Jiangsu
-												    
+> Nanjing, Jiangsu								    
 > Jun. 2021—Present
 - Led the back-end architecture design and development of the data map module and multi-tenant module of the data security platform
 - Provided protection for the data security of more than 400 million users of brands such as KFC, Pizza Hut, and Taco Bell
 
 Meixin Logistics
 > Java Engineer											           
-
 > Nanjing, Jiangsu
-
 >Jan. 2020—Jun. 2021
 - Led a one-year project the back-end architecture design and core module development of the bulk commodity supply chain management platform
 
 Chery Finance
 > Software Engineer												  
-
 > Wuhu, Anhui
-
 > May 2017—Jan. 2020
 - Led project management, including document countersigning, demand communication, progress tracking, process control, work reporting, project acceptance, etc
 
