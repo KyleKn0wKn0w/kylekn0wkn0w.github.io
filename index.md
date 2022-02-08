@@ -1,68 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/KyleKn0wKn0w/kylekn0wkn0w.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KyleKn0wKn0w/kylekn0wkn0w.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
 ## Welcome to Kyle Wang's Page
 Kyle.Wang@YumChina.com	 	 
+
 (+86)17355368668	 	
+
 https://kylekn0wkn0w.github.io
 
 ## EDUCATION                                                                  
 Hunan University of Technology
-Bachelor of Engineering in Software Engineering						 
-Hunan, China
-Sept. 2013—Jun. 2017
+> Bachelor of Engineering in Software Engineering						 
+> Hunan, China
+> Sept. 2013—Jun. 2017
 
 ## EXPERIENCE                                                                       
-#### Yum China		
+Yum China		
 > Nanjing, Jiangsu
 Senior Engineer												    
 Jun. 2021—Present
 - Led the back-end architecture design and development of the data map module and multi-tenant module of the data security platform
 - Provided protection for the data security of more than 400 million users of brands such as KFC, Pizza Hut, and Taco Bell
 
-#### Meixin Logistics
+Meixin Logistics
 > Nanjing, Jiangsu
 Java Engineer											           
 Jan. 2020—Jun. 2021
 - Led a one-year project the back-end architecture design and core module development of the bulk commodity supply chain management platform
 
-#### Chery Finance		
+Chery Finance		
 >Wuhu, Anhui
 Software Engineer												  
 May 2017—Jan. 2020
@@ -117,7 +80,11 @@ Multi-language Dynamic Compilation Service
 - Hobbies: basketball, motorcycle
 
 ## SKILLS                                                       
-- Application Softwares: Docker, Kubernetes, Git, Maven, Jenkins, Nginx
-- Frameworks: SpringCloud, Mybatis,Hibernate, Bootstrap, Vue, Echart
-- Programming Languages: Java, C/C++, Python, JavaScript, HTML, CSS, Shell
-- Languages: Chinese(Native Speaker), English (Toelf 109) 
+- Application Softwares: 
+> Docker, Kubernetes, Git, Maven, Jenkins, Nginx
+- Frameworks: 
+> SpringCloud, Mybatis,Hibernate, Bootstrap, Vue, Echart
+- Programming Languages: 
+> Java, C/C++, Python, JavaScript, HTML, CSS, Shell
+- Languages: 
+> Chinese(Native Speaker), English (Toelf 109) 
