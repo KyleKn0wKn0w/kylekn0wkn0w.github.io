@@ -8,8 +8,10 @@ https://kylekn0wkn0w.github.io
 ## EDUCATION                                                                  
 Hunan University of Technology
 > Bachelor of Engineering in Software Engineering	
-> Hunan, China
-> Sept. 2013—Jun. 2017
+
+Hunan, China
+
+Sept. 2013—Jun. 2017
 
 ## EXPERIENCE                                                                       
 Yum China	
@@ -77,16 +79,12 @@ Multi-language Dynamic Compilation Service
 ## ADDITION                                                              
 - Societies: 
 > computer academy laboratory
-
 > basketball referee club
-
 > employee union of Yum China
 
 - Awards: 
 > Recognition & Encouragement Award of Yum China
-
 > Annual Innovation and Efficiency Prize of Chery finance
-
 > Excellent Referee Prize of the college basketball league
 
 - Hobbies: 
