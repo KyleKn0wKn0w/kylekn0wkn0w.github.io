@@ -86,12 +86,16 @@ Multi-language Dynamic Compilation Service
 ## ADDITION                                                              
 - Societies: 
 > computer academy laboratory
+
 > basketball referee club
+
 > employee union of Yum China
 
 - Awards: 
 > Recognition & Encouragement Award of Yum China
+
 > Annual Innovation and Efficiency Prize of Chery finance
+
 > Excellent Referee Prize of the college basketball league
 
 - Hobbies: 
