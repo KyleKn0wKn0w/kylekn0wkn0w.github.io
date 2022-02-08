@@ -21,7 +21,6 @@ Yum China
 > Nanjing, Jiangsu
 												    
 > Jun. 2021—Present
-
 - Led the back-end architecture design and development of the data map module and multi-tenant module of the data security platform
 - Provided protection for the data security of more than 400 million users of brands such as KFC, Pizza Hut, and Taco Bell
 
@@ -31,7 +30,6 @@ Meixin Logistics
 > Nanjing, Jiangsu
 
 >Jan. 2020—Jun. 2021
-
 - Led a one-year project the back-end architecture design and core module development of the bulk commodity supply chain management platform
 
 Chery Finance
@@ -40,7 +38,6 @@ Chery Finance
 > Wuhu, Anhui
 
 > May 2017—Jan. 2020
-
 - Led project management, including document countersigning, demand communication, progress tracking, process control, work reporting, project acceptance, etc
 
 ## PROJECTS                                                                      
