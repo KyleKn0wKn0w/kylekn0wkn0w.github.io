@@ -1,4 +1,4 @@
-## Welcome to Kyle Wang's Page
+## Kyle Wang
 Kyle.Wang@YumChina.com	 	 
 
 (+86)17355368668	 	
