@@ -7,28 +7,40 @@ https://kylekn0wkn0w.github.io
 
 ## EDUCATION                                                                  
 Hunan University of Technology
-> Bachelor of Engineering in Software Engineering						 
+> Bachelor of Engineering in Software Engineering	
+
 > Hunan, China
+
 > Sept. 2013—Jun. 2017
 
 ## EXPERIENCE                                                                       
-Yum China		
+Yum China	
+
+> Senior Engineer
+
 > Nanjing, Jiangsu
-Senior Engineer												    
-Jun. 2021—Present
+												    
+> Jun. 2021—Present
+
 - Led the back-end architecture design and development of the data map module and multi-tenant module of the data security platform
 - Provided protection for the data security of more than 400 million users of brands such as KFC, Pizza Hut, and Taco Bell
 
 Meixin Logistics
+> Java Engineer											           
+
 > Nanjing, Jiangsu
-Java Engineer											           
-Jan. 2020—Jun. 2021
+
+>Jan. 2020—Jun. 2021
+
 - Led a one-year project the back-end architecture design and core module development of the bulk commodity supply chain management platform
 
-Chery Finance		
->Wuhu, Anhui
-Software Engineer												  
-May 2017—Jan. 2020
+Chery Finance
+> Software Engineer												  
+
+> Wuhu, Anhui
+
+> May 2017—Jan. 2020
+
 - Led project management, including document countersigning, demand communication, progress tracking, process control, work reporting, project acceptance, etc
 
 ## PROJECTS                                                                      
@@ -75,16 +87,28 @@ Multi-language Dynamic Compilation Service
 - The user can specify the compiled version of the language (such as Java1.7, 1.8...). Supports dynamic expansion for different languages and versions
 
 ## ADDITION                                                              
-- Societies: computer academy laboratory; basketball referee club; employee union of Yum China
-- Awards: Recognition & Encouragement Award of Yum China, Annual Innovation and Efficiency Prize of Chery finance, Excellent Referee Prize of the college basketball league
-- Hobbies: basketball, motorcycle
+- Societies: 
+> computer academy laboratory
+> basketball referee club
+> employee union of Yum China
+
+- Awards: 
+> Recognition & Encouragement Award of Yum China
+> Annual Innovation and Efficiency Prize of Chery finance
+> Excellent Referee Prize of the college basketball league
+
+- Hobbies: 
+> basketball, motorcycle
 
 ## SKILLS                                                       
 - Application Softwares: 
 > Docker, Kubernetes, Git, Maven, Jenkins, Nginx
+
 - Frameworks: 
 > SpringCloud, Mybatis,Hibernate, Bootstrap, Vue, Echart
+
 - Programming Languages: 
 > Java, C/C++, Python, JavaScript, HTML, CSS, Shell
+
 - Languages: 
 > Chinese(Native Speaker), English (Toelf 109) 
